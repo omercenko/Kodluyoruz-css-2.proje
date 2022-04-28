@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+     width: auto;
+}
+img {
+    margin-bottom: 1px;
+
+}
+section {
+    background-color: white;
+    width: auto;
+    margin: 0% 5% 5% 5%;
+}
+.kutu1 {
+    background-color: #EEEEEE;
+    padding: auto;
+    border-style: solid;
+    border-color: white;
+}
+.kutu2 {
+    background-color: #7EE5DA;
+    float: left;
+    width:34.5%;
+    height:70px;
+    padding: 1%;
+    font-size: medium;
+    border-style: solid;
+    border-color: white;
+}
+.kutu3 {
+    background-color: #70CCC2;
+    float: left;
+    width:16%;
+    height:70px;
+    padding: 1%;
+    font-size: medium;
+    border-style: solid;
+    border-color: white;
+}
+.kutu4 {
+    background-color: #62B3AA;
+    float: left;
+    width:41%;
+    height:70px;
+    padding: 1% 1% 1% 1%;
+    font-size: small;
+    border-style: solid;
+    border-color: white;
+}
+li {
+    list-style-type: none;
+}
